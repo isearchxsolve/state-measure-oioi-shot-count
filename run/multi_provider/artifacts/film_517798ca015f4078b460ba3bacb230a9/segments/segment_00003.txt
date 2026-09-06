@@ -1,0 +1,2 @@
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/multi_provider/artifacts/film_517798ca015f4078b460ba3bacb230a9/clips/1b350feaf1cbb119261be3ab4d031f7a158e4fbd229e58a7d3e21256b9d6eab5.mp4'
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/multi_provider/artifacts/film_517798ca015f4078b460ba3bacb230a9/clips/008397433e6f25fd7b6c4fe0ac591e9e7d6e56a835dc5f256efb2b5716d9cb6c.mp4'

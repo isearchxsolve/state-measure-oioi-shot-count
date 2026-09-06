@@ -1,0 +1,4 @@
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/c_no_capacity/artifacts/film_c80db06b6e9643f3be72261e66074357/clips/1d65071eac5e1eb867354c135136f8bf7b4360575c383770a2d0a3d984f484b3.mp4'
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/c_no_capacity/artifacts/film_c80db06b6e9643f3be72261e66074357/clips/634f7c22510e193093a56d79ed20b13e65dcf1a15cf0b2ea7313478ec4c2a500.mp4'
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/c_no_capacity/artifacts/film_c80db06b6e9643f3be72261e66074357/clips/bffaaa20314903680a46980f5e57c496716da05ff4cbbdd0e9376cf70b315c9b.mp4'
+file 'D:/omniroute-monetizer/state/measure/oioi-shot-count/run/c_no_capacity/artifacts/film_c80db06b6e9643f3be72261e66074357/clips/5a8586774191e4910607cb406f97745c6c9f794dc21720f3726766fc92539517.mp4'
